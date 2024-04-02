@@ -1,1 +1,1 @@
-hello world
+select 'hello world' fname from dual;
